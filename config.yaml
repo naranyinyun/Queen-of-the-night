@@ -48,7 +48,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: Night forever
+        subtitle: Night forever, I can see your are smiling, but I can't smile anymore.
         avatar:
             enabled: false
             local: true
@@ -57,7 +57,7 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: true
             default: Licensed under CC BY-NC-SA 4.0
@@ -170,10 +170,10 @@ params:
 
     colorScheme:
         # Display toggle
-        toggle: true
+        toggle: false
 
         # Available values: auto, light, dark
-        default: auto
+        default: dark
 
     imageProcessing:
         cover:

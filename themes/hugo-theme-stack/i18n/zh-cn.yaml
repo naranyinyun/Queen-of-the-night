@@ -50,10 +50,10 @@ widget:
 
     tagCloud:
         title:
-            other: Tags
+            other: class
     categoriesCloud:
         title:
-            other: Categories
+            other: book
 
 search:
     title:
