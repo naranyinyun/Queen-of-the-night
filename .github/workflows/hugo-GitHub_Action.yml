@@ -3,11 +3,12 @@ name: Hugo Build
 on:
   push:
     branches:
-      - main  # Set a branch to deploy
+      - main  # Set a branch to deplop
 
 jobs:
   deploy:
     runs-on: ubuntu-22.04
+    environment: Production
     steps:
       - uses: actions/checkout@v3
         with:
