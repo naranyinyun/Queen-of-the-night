@@ -1,5 +1,5 @@
 ---  
-title: "State"  
+title: "1.0 State"  
 date: 2023-10-13T23:55:55+08:00  
 draft: true  
 slug: "State"  
