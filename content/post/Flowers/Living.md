@@ -3,7 +3,7 @@ title: "2.3 Living"
 date: 2023-10-16T22:31:35+08:00  
 draft: false  
 slug: "Living"  
-tags: ["Oisaeu"]  
+tags: ["Oiseau"]  
 categories: ["「花丛」"]  
 ---  
 　　崭新的一天，重复的一天  
