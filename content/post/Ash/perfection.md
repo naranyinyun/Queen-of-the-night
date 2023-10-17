@@ -1,5 +1,5 @@
 ---  
-title: "Perfection"  
+title: "彼岸"  
 date: 2023-10-17T22:39:52+08:00  
 draft: false  
 slug: "Perfection"  
