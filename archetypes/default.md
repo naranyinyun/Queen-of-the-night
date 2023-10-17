@@ -4,6 +4,6 @@ date: {{ .Date }}
 draft: true
 slug: "{{ replace .Name "-" " " | title }}"
 tags: [""]
-categories: [""]
+categories: ["「」"]
 ---
 
