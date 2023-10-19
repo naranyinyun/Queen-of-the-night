@@ -1,5 +1,11 @@
 LICENSE
 
-This repository will use the Unlicense and the CC4.0 BY-NC-SA, you will see the files in specific paths, the license will effct on all the file in that path and children path.
+This repository will use the Unlicense and the CC BY-NC-SA 4.0  
+
+THE CC BY-NC-SA 4.0 EFFECT PATHS/FILES
+./content/*.md
+
+THE UNLICENSE EFFECT PATHS/FILES
+./* EXCEPT ./content/*
 
 Live, forever, strongly.
